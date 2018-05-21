@@ -1,6 +1,6 @@
 # P: Safe Asynchronous Event-Driven Programming
 
-- Source: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-8.pdf
+***Source***: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-8.pdf
 
 ## Possible Prerequisites
 * [Delay-Bounding](./depth-bounding.md) : [Delay-Bounded Scheduling](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/popl198ap-emmi.pdf)
